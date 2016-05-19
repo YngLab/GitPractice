@@ -1,4 +1,4 @@
-# GitPractice
+﻿# GitPractice
 練習用リポジトリです
 
 ## Kano
@@ -8,5 +8,6 @@
 ## Kei
 
 ## Takeru
+### ~~***ウンコ！***~~
 
 ## Sadayoshi
