@@ -7,7 +7,7 @@
 ## sKawashima
 がんばりましょう
 
-## Kei
+## Odashi
 
 ## Takeru
 ### ~~***ウンコ！***~~
