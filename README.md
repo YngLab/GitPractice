@@ -4,6 +4,7 @@
 ## Kano
 
 ## sKawashima
+がんばりましょう
 
 ## Kei
 
