@@ -23,6 +23,9 @@ Sumallyに説明をいれる
 必要であればDescriptionをいれる  
 
 ## Sync
+コミットが終わったら念のためもう一度Syncしておく。  
+コミットしていない（自らが記述した）変更点があった時はSyncができないので、  
+更新状態を最新にしつつ、コミットし忘れを防ぐことができる。  
 
 ### 番外編
 [MarkDown記法解説](http://qiita.com/tbpgr/items/989c6badefff69377da7)
