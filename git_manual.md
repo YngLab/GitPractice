@@ -15,3 +15,6 @@ Sumallyに説明をいれる
 必要であればDescriptionをいれる  
 
 ## Sync
+
+##番外編
+[MarkDown記法解説](http://qiita.com/tbpgr/items/989c6badefff69377da7)
