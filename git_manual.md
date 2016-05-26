@@ -1,7 +1,10 @@
 # GitHub Desktopを用いた開発の手順
 以下、おおまかな流れ
 
-## Clone（初回のみ）
+## Clone（初回のみ）  
+Cloneを取得したいリポジトリの場所にブラウザから飛ぶ。  
+「Clone or download」→「Open in desktop」でGithub desktopに登録される。  
+（この際、GitHub desktopがインストールされていなければ、GitHub desktopのダウンロードページへ飛ばされたりする）  
 
 ## Sync
 
