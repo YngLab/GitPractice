@@ -1,6 +1,6 @@
 # GitHub Desktopを用いた開発の手順
 
-## （初回のみ）Clone
+## Clone（初回のみ）
 
 ## Sync
 
