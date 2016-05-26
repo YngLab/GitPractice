@@ -1,6 +1,8 @@
 ﻿# GitPractice
 練習用リポジトリです
 
+[GitHub Desktopを用いた際の開発マニュアル作りました！](https://github.com/YngLab/GitPractice/blob/master/git_manual.md)やったぜ。
+
 ## Shumpei Kano
 3Dペン、方眼紙(斜めつき)、発泡スチロール、岡本先生のハコニワ法の紙
 →用意しました
