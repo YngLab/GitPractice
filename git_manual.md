@@ -3,6 +3,7 @@
 
 ## Clone（初回のみ）  
 Cloneを取得したいリポジトリの場所にブラウザから飛ぶ。  
+例：https://github.com/[Organizations]/[Repository]  
 「Clone or download」→「Open in desktop」でGithub desktopに登録される。  
 （この際、GitHub desktopがインストールされていなければ、GitHub desktopのダウンロードページへ飛ばされたりする）  
 
