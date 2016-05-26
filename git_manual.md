@@ -32,12 +32,12 @@ Sumallyに説明をいれる。
 コミットしていない（自らが記述した）変更点があった時はSyncができないので、更新状態を最新にしつつ、コミットし忘れを防ぐことができる。  
 
 ## プルリクエスト
-GitHub desktopのブランチで、右上にPull requestが表示される。
-ブランチで行いたい作業が完了したらPull requestを押す。
-「from master int hoge/hogehoge」に間違いが無ければ、
-TitleやDescripitonを入力し、「Send pull request」を押す。
-すると、プルリクエストが送信された状態になる。
-プルリクエストを確認するには、ブラウザ上でGitHubにアクセスする必要がある。
+GitHub desktopのブランチで、右上にPull requestが表示される。  
+ブランチで行いたい作業が完了したらPull requestを押す。  
+「from master int hoge/hogehoge」に間違いが無ければ、  
+TitleやDescripitonを入力し、「Send pull request」を押す。  
+すると、プルリクエストが送信された状態になる。  
+プルリクエストを確認するには、ブラウザ上でGitHubにアクセスする必要がある。  
 
 ## マージ
 GitHub(Webサイト)でPull Requestから現在届いているプルリクエストを表示させる。  
